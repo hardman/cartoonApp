@@ -1,0 +1,42 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Masonry (0.6.3)
+  - MJExtension (3.0.4)
+  - MJRefresh (2.3.2)
+  - UMengAnalytics (3.6.4)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5.4)
+  - Masonry (~> 0.6.1)
+  - MJExtension
+  - MJRefresh (~> 2.3.2)
+  - UMengAnalytics
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+  MJExtension: 1cd4e22c5323f1ec7729933da550bcfce19e184e
+  MJRefresh: 0f6f5e8387970607c26080b44058b229a23065d7
+  UMengAnalytics: d24fb5200e13d2874f36b6337bc129b96511c54e
+
+COCOAPODS: 0.39.0
